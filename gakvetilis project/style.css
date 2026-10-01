@@ -1,0 +1,50 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height:80vh
+}
+
+.container{
+   background-color: hsl(216, 50%, 16%);
+   width: 350px;
+    
+    padding: 10px; 
+    border-radius: 13px;
+    
+}
+   
+
+.container .img1{
+    width:350px;
+    border-radius: 5px;
+    
+    
+
+}
+
+.container .img2{
+    width: 45px;
+}
+ 
+.container .about{
+    color:white;
+
+}
+
+.container .info{
+    color: hsl(215, 51%, 70%);
+}
+
+.container .text{
+    color: hsl(178, 100%, 50%);
+}
+
+.container .color{
+    color: hsl(215, 51%, 70%);
+}
+
+.container .home{
+    color: white;
+}
